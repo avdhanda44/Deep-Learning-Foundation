@@ -3,3 +3,4 @@ numpy==1.26.4
 matplotlib==3.9.4
 notebook==7.5.5
 ipykernel==6.31.0
+scikit-learn==1.6.1
